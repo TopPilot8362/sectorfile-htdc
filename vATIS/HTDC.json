@@ -1,6 +1,8 @@
 {
-	"Name": "HTDC Dar Es Salaam FIR v2",
-	"Composites": [
+	"Name": "HTDC Dar Es Salaam FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-htdc/refs/heads/main/vATIS/HTDC.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Kigali Intl",
 			"Identifier": "HRYR",
